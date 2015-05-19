@@ -1,0 +1,1 @@
+The files here are several different methods to graph and monitor The Button, ie Reddit's social experiment(found on http://reddit.com/r/thebutton), including Selenium and PhantomJS to monitor the physical timer in a browser, while the WSS programs use the button's websocket(found in the source of the subreddit page) to get accurate values regardless of local network lag.
